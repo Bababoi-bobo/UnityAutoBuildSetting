@@ -1,0 +1,11 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]bj/
+/[Bb]uild/
+/[Builds]/
+/[Logs]/
+/[UserSettings]/
+# 排除内存转储文件
+*.pdb
+*.mdb
+
